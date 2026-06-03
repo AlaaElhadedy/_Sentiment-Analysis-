@@ -1,5 +1,4 @@
-# 💬 Sentiment Analysis Dashboard
-![Dashboard](https://sentiment-dashboard-gvh5j33d0-alaaelhadedys-projects.vercel.app/)
+
 
 ## 🔗 Live Demo
 👉 [افتح الداش بورد هنا](https://sentiment-dashboard-gvh5j33d0-alaaelhadedys-projects.vercel.app/)
